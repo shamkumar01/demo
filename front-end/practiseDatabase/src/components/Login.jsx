@@ -47,7 +47,7 @@ const Login = () => {
           <form onSubmit={handleSubmit}>
             <div className="mb-3">
               <label htmlFor="exampleInputEmail1" className="form-label">
-                Email address
+                Email addres
               </label>
               <input
                 type="email"
